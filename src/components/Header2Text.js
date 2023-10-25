@@ -1,7 +1,7 @@
 const Header2Text = () => {
   return (
     <h2>
-      React Recoil Demo
+      React Character Counter Demo - with useState Hooks
     </h2>
   );
 }
